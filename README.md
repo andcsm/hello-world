@@ -1,5 +1,5 @@
 # hello-world
-Mi primer repositorio en GitHub
+My fist Repository on GitHub
 
 Hi Humans, AndCsm here!
 
